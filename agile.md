@@ -6,13 +6,14 @@
 - Is there an 'agile' bootcamp?
 - Are there 'agile' certifications?
   - I'm not sure about other areas, but there are for software development: 
-    - CSM - certified scrum master
+    - CSM - certified scrum master (*I've got this cert but it's not one that I'd brag about...*)
     - CPO - certified product owner
 - Content spewage
   - servemail & email lists
   - youtube channels
   - podcasts
   - blogs
+  - ![How does one go about creating and publishing a MOOC?](https://via.placeholder.com/15/f03c15/000000?text=+) How does one go about creating and publishing a MOOC?
 - E-books about being agile?
 - Online courses/MOOCs:
   - LinkedIn
